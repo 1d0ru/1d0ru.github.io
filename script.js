@@ -21,8 +21,15 @@ function showImages(page) {
     }
 
     isLoading = false;
-}
 
+ // Initialize medium-zoom on newly added images
+
+mediumZoom('.photo img', {
+    margin: -100,
+    background: '#000000',
+    scrollOffset: 50 /* pixels to scroll to close */
+})
+}
 
 // check if user has scrolled to the bottom of the page
 function isBottomOfPage() {
