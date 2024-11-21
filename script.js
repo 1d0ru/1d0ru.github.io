@@ -21,21 +21,15 @@ function showImages(page) {
     }
 
     isLoading = false;
-
- // Initialize medium-zoom on newly added images
-
-mediumZoom('.photo img', {
-    margin: -100,
-    background: '#000000',
-    scrollOffset: 50 /* pixels to scroll to close */
-})
 }
 
 // check if user has scrolled to the bottom of the page
 function isBottomOfPage() {
-    return (window.innerHeight + window.scrollY) >= document.body.offsetHeight;
-}
+    const scrollPosition = window.innerHeight + window.scrollY;
+    const documentHeight = document.documentElement.scrollHeight;
 
+    return scrollPosition >= documentHeight - 5; // Add a little buffer to ensure the detection is accurate
+}
 
 function handleScroll() {
     if (isBottomOfPage() && !isLoading && currentPage * perPage < images.length) {
