@@ -1,8 +1,6 @@
 const images = [
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/656a570a-9f1a-49cb-b775-54f2af168f00/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/6a1d70e3-ccc2-4ba8-6440-c98d92fe2600/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/b12470e8-c116-4698-9622-761d54b03e00/1500px',
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/43b2657c-45e4-4349-8843-4807eca63100/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/cb22e813-62ed-4c78-79d7-a712aad9f700/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/b5843a11-b80b-4831-5a00-06a430e7d500/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/51bfc0c0-9648-4a49-7874-ffbb7d23e200/1500px',
