@@ -1,6 +1,5 @@
 const images = [
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/2bea8a22-c2c4-42a9-2073-655533b01b00/1500px',
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/8c8f3e72-1a2b-493b-9af2-929deb555900/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/9fc66337-0b46-4aff-c603-f9e409ca7300/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/cc4b8fbf-6e58-481b-c1e4-a8cd074a9000/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/07a9fa7a-1b37-46af-9078-f7973b7a8d00/1500px',
