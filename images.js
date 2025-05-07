@@ -1,8 +1,8 @@
 const images = [
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/565f5cc0-f885-4eec-68aa-6dbb8340be00/1500px'.
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/1bb452f9-bcd7-420e-15a3-be25947eb000/1500px'.
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/31c144e2-cf7e-45cc-f578-9629cfdd9100/1500px'.
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/9e7ec288-d28f-4c04-bbd6-057502caa700/1500px'.
+   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/565f5cc0-f885-4eec-68aa-6dbb8340be00/1500px',
+   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/1bb452f9-bcd7-420e-15a3-be25947eb000/1500px',
+   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/31c144e2-cf7e-45cc-f578-9629cfdd9100/1500px',
+   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/9e7ec288-d28f-4c04-bbd6-057502caa700/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/2bea8a22-c2c4-42a9-2073-655533b01b00/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/9fc66337-0b46-4aff-c603-f9e409ca7300/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/cc4b8fbf-6e58-481b-c1e4-a8cd074a9000/1500px',
