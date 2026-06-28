@@ -1,7 +1,7 @@
 const images = [
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/4691f1b4-18ce-4d0e-8ef0-30631fe33900/1500px'.
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/5dd0beca-55b9-44dd-cc2f-bbdc3e426d00/large'.
-   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/ada8940f-bbc6-498c-02d2-f4ef46d52200/large'.
+   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/4691f1b4-18ce-4d0e-8ef0-30631fe33900/1500px',
+   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/5dd0beca-55b9-44dd-cc2f-bbdc3e426d00/large',
+   'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/ada8940f-bbc6-498c-02d2-f4ef46d52200/large',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/6d7e0fd6-aa2e-4e20-d5b6-915b2d26b700/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/7c6562a9-e5bc-4b69-c91d-5e1304fb7400/1500px',
    'https://imagedelivery.net/aTBiYy7as26DUD39rjMUEQ/70d8601e-5d99-4baa-a3ba-76f53f979d00/1500px',
